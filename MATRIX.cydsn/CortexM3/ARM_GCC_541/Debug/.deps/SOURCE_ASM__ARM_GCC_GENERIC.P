@@ -1,0 +1,10 @@
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/CortexM3/ARM_GCC_541/Debug/CyBootAsmGnu.o : C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cydevicegnu.inc C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cyfittergnu.inc 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cydevicegnu.inc : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cyfittergnu.inc : 
+

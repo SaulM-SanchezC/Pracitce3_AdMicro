@@ -1,0 +1,68 @@
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/Alarm.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/Alarm_aliases.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/COLUMNAS.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/COLUMNAS_aliases.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/CyDmac.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/CyLib.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/CySpc.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/FILAS.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/FILAS_aliases.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/LCD.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/SENSOR.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/SENSOR_aliases.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/SENSOR_int.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cmsis_compiler.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/core_cm3.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cyPm.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cydevice.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cypins.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cytypes.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/isr_FILA.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/project.h C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/main.c 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/Alarm.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/Alarm_aliases.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/COLUMNAS.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/COLUMNAS_aliases.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/FILAS.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/FILAS_aliases.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/LCD.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/SENSOR.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/SENSOR_aliases.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/SENSOR_int.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cmsis_compiler.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/isr_FILA.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/Generated_Source/PSoC5/project.h : 
+
+C:/Users/new_s/Downloads/MATRIXEXAMPLEP2/MATRIX.cydsn/main.c : 
+
